@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+  [Blog](https://lmw0221.github.io/) [Book](https://limw.vercel.app/) 
+
 <!--
 **lmw0221/lmw0221** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
