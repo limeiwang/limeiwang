@@ -1,7 +1,9 @@
 ### Hi there 👋
-
+<center>
+  <a href="https://lmw0221.github.io/">blog</a> · 
+  <a href="https://limw.vercel.app/">note</a>
+</center>
   
-  <center>[notes](https://limw.vercel.app/) · [Blog](https://lmw0221.github.io/) </center>
 
 <!--
 **lmw0221/lmw0221** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
