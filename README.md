@@ -1,9 +1,9 @@
 ### Hi there 👋
-- 🔭 I’m currently working on React
-- 🌱 I’m currently learning TypeScript
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about <a href="https://limeiwang.github.io/">blog</a>
+- 🔭 I’m currently working on React;
+- 🌱 I’m currently learning TypeScript;
+- 👯 I’m looking to collaborate on Look at the following;
+- 🤔 I’m looking for the help of money making techniques;
+- 💬 Ask me about anything to [issues](https://github.com/limeiwang/limeiwang/issues), I am happy to help;
 - 📫 How to reach me: 
     - wx: likid0312
     - qq: 957232464
