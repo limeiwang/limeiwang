@@ -7,7 +7,7 @@
 <p>🤔 &nbsp;I’m looking for the help of money making techniques</p>
 <p>💬 &nbsp;Ask me about anything to issues, I am happy to help</p>
 
-[📖 &nbsp;Blog](https://limeiwang.github.io/)
+[📖 &nbsp;Blog](https://likid.top/)
 &nbsp;|&nbsp;
 [✉️ &nbsp;Email](mailto:17803125899@126.com)
 
